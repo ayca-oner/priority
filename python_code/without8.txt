@@ -1,0 +1,5 @@
+Script started on 2018-11-11 00:30:39+0100
+]0;ayca@ayca-Lenovo-G510: ~/git/tum_ba/Yadhunandana-testbed/python_code[01;32mayca@ayca-Lenovo-G510[00m:[01;34m~/git/tum_ba/Yadhunandana-testbed/python_code[00m$ exit
+exit
+
+Script done on 2018-11-11 00:30:41+0100
